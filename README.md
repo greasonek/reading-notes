@@ -1,4 +1,4 @@
-# 
+
 # Growth Mindset
 > "The growth mindset can open pathways to more creativity and possibility"
 ## Growth Mindset is all about becoming better at any area of your life that you wish to pursue with the help of these three main ingredients:
@@ -8,7 +8,7 @@
 
 |                |Fixed Mindset                          |Growth Mindset                         |
 |----------------|-------------------------------|-----------------------------|
-|Obstacles|`"I can't do this, I give up"`            |"I will find a way to make it work"            |
+|Obstacles| "I can't do this, I give up"            |"I will find a way to make it work"            |
 |Effort          |"I don't have time to achieve my goals'            |"I will make time to achieve my goals"            |
 |Sucess of others          |"They already have so much success, I'll never be as good as them"|"I see their sucess and it inspires me to be better"|
 
