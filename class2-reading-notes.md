@@ -1,5 +1,7 @@
 # Class 2 Reading Notes
 
+> Text editor software is an important tool when writing code and choosing one that works best for you will need to have a number of components discussed in these notes.
+> 
 ## Text editor cheat sheet
 
 - A text editor is a software that you can download and install on your computer or search in the web browser that allows you to write and manage text to build a website
@@ -29,3 +31,5 @@ Third Party Options
 > Difference between Text Editor and IDE
 - IDE (Integrated Development Environment) = suite of different software coming together; text editor + file manager + compiler + debugger in one software package
 - Similar to Microsoft Outlook in that you can do many things in one package
+
+## Things I want to know more about:
