@@ -24,4 +24,15 @@ Hi all! My name is Emily, I am an Operations Manager for a tier 2 cannabis culti
 |Sucess of others          |"They already have so much success, I'll never be as good as them"|"I see their sucess and it inspires me to be better"|
 
 ### Emily Greason (she/her/hers) [github profile](https://github.com/greasonek)
-# [Links](https://greasonek.github.io/learning-markdown/)
+
+# Links
+
+## Reading Notes
+
+### Code 102
+
+- [Class 01](code-102/class-01)
+- [Class 02](code-102/class-02)
+- [Class 03](code-102/class-03)
+
+(https://greasonek.github.io/learning-markdown/)
