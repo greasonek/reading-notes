@@ -1,3 +1,4 @@
+# Class Notes Reading 1
 # Learning Markdown
 ## Markdown is similar to HTML but much more simple. It offers an introduction to coding that is simple to understand and remember.
 - Create headings usings #'s - for example one # is the main heading, two #'s is the first subheading; adding more #'s will make the font size of the heading smaller
