@@ -2,6 +2,8 @@
 
 ## What is CSS?
 
+CSS is important for the presentation of a website, controls the way a user views the page and is therefore one of the most important parts of the website in terms of marketing and user experience.
+
 > Cascade Style Sheets - controls how the html will look; presentaion; 
 
 - change color, size create layout (ex. have main content area with sidebar for related ifo); create animation
@@ -51,6 +53,8 @@
 - color specifies text color
 - initial sets property to its default value
 - inherit inherits this property from its parent element
+
+## Things I want to know more about:
 
 
 
