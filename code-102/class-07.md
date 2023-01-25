@@ -31,6 +31,12 @@
 - Destructuring assignments 
 -Evaluation/Nesting - chaining assignments can make result assign to another variable; **grouped right to left if no parenthesese but are evaluated left to right**
 
+-Comparison operators - compares operand and returns value based on whether compairson is true ( ==,!=, !==, ===, <, <=, >, >=)
+
+- Arithmetic operators - takes numerical values and returns a single numerical value; division by 0 = infinity
+
+
+
 ## Things I want to know more about
 
 - Using JS to create pop ups for user email, phone number or info entry
