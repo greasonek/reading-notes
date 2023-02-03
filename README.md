@@ -27,9 +27,9 @@ Hi all! My name is Emily, I am an Operations Manager for a tier 2 cannabis culti
 
 # Links
 
-## Reading Notes
+# Reading Notes
 
-### Code 102
+## Code 102 - Intro to Software Development
 
 - [Class 01](code-102/class-01)
 - [Class 02](code-102/class-02)
@@ -41,7 +41,7 @@ Hi all! My name is Emily, I am an Operations Manager for a tier 2 cannabis culti
 - [Class 08](code-102/class-08)
 - [Class 09](code-102/class-09)
 
-### Code 201
+## Code 201 - Foundations of Software Development
 
 - [Class 01](code-102/class-01)
 - [Class 02](code-102/class-02)
@@ -57,5 +57,8 @@ Hi all! My name is Emily, I am an Operations Manager for a tier 2 cannabis culti
 - [Class 12](code-102/class-12)
 - [Class 13](code-102/class-13)
 
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
 
 (https://greasonek.github.io/learning-markdown/)
