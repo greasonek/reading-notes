@@ -43,19 +43,19 @@ Hi all! My name is Emily, I am an Operations Manager for a tier 2 cannabis culti
 
 ## Code 201 - Foundations of Software Development
 
-- [Class 01](code-102/class-01)
-- [Class 02](code-102/class-02)
-- [Class 03](code-102/class-03)
-- [Class 04](code-102/class-04)
-- [Class 05](code-102/class-05)
-- [Class 06](code-102/class-06)
-- [Class 07](code-102/class-07)
-- [Class 08](code-102/class-08)
-- [Class 09](code-102/class-09)
-- [Class 10](code-102/class-10)
-- [Class 11](code-102/class-11)
-- [Class 12](code-102/class-12)
-- [Class 13](code-102/class-13)
+- [Class 01](code-201/class-01)
+- [Class 02](code-201/class-02)
+- [Class 03](code-201/class-03)
+- [Class 04](code-201/class-04)
+- [Class 05](code-201/class-05)
+- [Class 06](code-201/class-06)
+- [Class 07](code-201/class-07)
+- [Class 08](code-201/class-08)
+- [Class 09](code-201/class-09)
+- [Class 10](code-201/class-10)
+- [Class 11](code-201/class-11)
+- [Class 12](code-201/class-12)
+- [Class 13](code-201/class-13)
 
 ## Code 301 - Intermediate Software Development
 
