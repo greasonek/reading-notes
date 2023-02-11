@@ -8,7 +8,7 @@
 
 - **Reversed** - items will be ordered hight to low; boolean attribute 
 
-- **Start** - start counting from the first integer *always Arabic*; <a href=”https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol”><For example></a>, to start numbering elements from the letter "d" or the Roman numeral "iv," use start="4".
+- **Start** - start counting from the first integer *always Arabic*; <a href=”https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol”>For example</a>, to start numbering elements from the letter "d" or the Roman numeral "iv," use start="4".
 
 - **Types** - sets the numbering type
 
@@ -42,11 +42,11 @@
 
 > Arrays store data items
 
-- Single objects that contain multiple values stored in a list; square brackets with items listed separated by commas, numbered starting with “0” (the number of the object listed is it’s *index*; can find the length of the array by using <a href=”https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays"><this example></a>> const shopping = ['bread', 'milk', 'cheese', 'hummus', 'noodles']; console.log(shopping.length);  // 5
+- Single objects that contain multiple values stored in a list; square brackets with items listed separated by commas, numbered starting with “0” (the number of the object listed is it’s *index*; can find the length of the array by using <a href=”https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays">this example</a> const shopping = ['bread', 'milk', 'cheese', 'hummus', 'noodles']; console.log(shopping.length);  // 5
 
 - Multidimensional array is an array within an array
 
-- Add to an array by using **push()** <a href=”https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays"><this example></a> const cities = ['Manchester', 'Liverpool'];  
+- Add to an array by using **push()** <a href=”https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays">this example</a> const cities = ['Manchester', 'Liverpool'];  
 cities.push('Cardiff'); console.log(cities);      // [ "Manchester", "Liverpool", "Cardiff" ]
 
 - Use **unshift()** to add an item to the beginning of an array
