@@ -7,9 +7,9 @@
 - Make an img a link by using <a> element and referencing image with an <img> element. 
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks">for example</a>
 
-<a href="https://www.mozilla.org/en-US/">
-  <img src="mozilla-image.png" alt="Mozilla homepage" />
-</a>
+<a  href= "https://www.mozilla.org/en-US/" >
+  < img src="mozilla-image.png" alt="Mozilla homepage" />
+< /a>
 
 - URL’s use paths to find files - one directory contains the entire site (called the **root*) - contains index.html (can have multiple index.html’s if they’re in separate filesystem locations 
 
