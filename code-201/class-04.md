@@ -59,7 +59,7 @@ ex. in CSS -->
   <dd>Buzzard</dd>
 </dl>
 
-<dt> elements in css will be given sticky positioning with top:0; so the "A" and "B" etc will stick to the top of the page as the user scrolls
+< dt > elements in css will be given sticky positioning with top:0; so the "A" and "B" etc will stick to the top of the page as the user scrolls
 
 1. Normal flow is the way elements lay themselves out on a webpage if you haven’t changed anything about their layout and no CSS is applied to change the way they behave. Normal flow is designed to make a web page easily readable for all users.
 
