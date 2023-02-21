@@ -1,4 +1,6 @@
-# Class 6 Reading Notes## JavaScript Object Basics
+# Class 6 Reading Notes
+
+## JavaScript Object Basics
 
 - Object = collection of related data/functionality; creating an object begins with defining and initializing a variable 
   - value of an item can be anything including numbers, arrays, functions, etc. 
