@@ -1,4 +1,4 @@
-#React: Compotent Lifecycle Events
+# React: Compotent Lifecycle Events
 
 - **component lifecycle events**: compenents = classes or functions - methods used on these are lifecyle events - can be called during lifecycle of component and allow to update UI and app states
 
@@ -42,7 +42,7 @@
 
 - Used to load anything using a network request or initialize the DOM; also used to set up subscriptions
 
-#React State vs Props
+# React State vs Props
 
 1. What types of things can you pass in the props?
 
@@ -59,3 +59,8 @@ props = arguments to a function
 - When the state is changed, the app is re-rendered
 
 4. What are some examples of things that we could store in state? state stores something we're going to be updating based on what the user does; prop displays something that won't change; For example, state is useful in a form so it can be updated or changed by the user and stored
+
+
+## Things I want to know more about
+
+- structing props and state in react and practice with this
