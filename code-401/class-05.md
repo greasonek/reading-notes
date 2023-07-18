@@ -37,3 +37,79 @@
       - *real life example: a bookmark - allows a reader to find the last page they were reading efficiently and quickly regardless of the size of the book in one single step <a href="https://www.linkedin.com/pulse/big-o-notation-simple-explanation-examples-pamela-lovett/">Source</a>*
     - O(n) means linear time or the time it takes to run an algorithm increases as the input increases --> *examples: Javascript methods like forEach(), map(), and reduce()*
       - *real life example: reading a book takes linear time, reading one page may take 1 minute so 30 pages would take 30 minutes, 100 pages would take 100 minutes, etc.<a href="https://www.linkedin.com/pulse/big-o-notation-simple-explanation-examples-pamela-lovett/">Source</a>*
+
+## LINKED LIST
+
+- Traversal: the process of moving from one data point to another data point
+
+- example:
+
+**NODE CLASS**
+
+class Node {
+  constructor(value, next=null) {
+    this.value = value;
+    this. next = next;
+  }
+}
+
+- example:
+
+**LINKED LIST CLASS**
+
+class LinkedList {
+  constructor(){
+    this.head = null;
+  }
+  addOne(value) {
+    if (!this.head) {
+      this.head = new Node (value);
+    } else {
+    const temp = new Node(value);
+
+    // *PROPERTIES A NODE HAS: VALUE AND NEXT*
+    // *DEFAULT VALUE OF NEXT IF NULL IF IT'S NOT GIVEN A VALUE*
+    temp.next = this.head;
+
+    //make temp the NEW HEAD
+    this.head = temp;
+
+    // *THIS ADDS A NEW NODE TO THE BEGINNING OF THE LINKED LIST*
+    // *FUNCTION RUNS, 'TEMP' GOES AWAY AND 'HEAD' PERSISTS, NOW WE HAVE A NEW STARTING POINT*
+    }
+  }
+}
+
+**HOW TO TRAVERSE THROUGH LINKED LIST** (TRAVERSAL)
+
+// travel from head node to the last node and return the last value
+
+traversal() {
+  if (!this.head) return 'the list is empty';
+  let current = this.head;
+  while (current.next){
+    // CHECK FOR THE VALUE YOU WANT, IF NO VALUE, KEEP GOING THROUGH LOOP
+    // IF THERE IS A VALUE YOU WANT, STOP AND RETURN CURRENT
+    current = current.next;
+  }
+  //AT END OF LINKED LIST WANT TO END WHILE LOOP SO WE DON'T CRASH
+  return current;
+  // IF NO NODE CONTAINS THE VALUE WE WANT:
+  return 'the value does not exist';
+}
+
+traversalCheatSheet() {
+    let current = this.head;
+    while(current) {
+      current = current.next;
+    }
+  }
+  altTraveralCheatSheet() {
+  let current = this.head;
+    if (!current) return
+    while(current.next) {
+      current = current.next;
+    }
+    return current;
+  }
+}
