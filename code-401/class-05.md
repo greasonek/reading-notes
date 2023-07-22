@@ -113,3 +113,11 @@ traversalCheatSheet() {
     return current;
   }
 }
+
+traverseAndPrint(value) {
+  let current = this.head;
+  while(current) {
+    console.log(current.value);
+    current = current.next;
+  }
+}
